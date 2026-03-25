@@ -1,0 +1,9 @@
+create account in datadog 
+and get api key 
+
+export DD_API_KEY="YOUR_API_KEY" 
+DD_AGENT_MAJOR_VERSION=7 DD_API_KEY=$DD_API_KEY bash -c "$(curl -L https://s3.amazonaws.com/dd-agent/scripts/install_script.sh)" 
+
+
+sudo systemctl status datadog-agent 
+sudo datadog-agent status 
