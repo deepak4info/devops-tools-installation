@@ -1,6 +1,3 @@
-Nice—you’ve got the right flow already 👍 Let’s clean it up, fix small mistakes, and present it in a **proper DevOps-ready format** (this is interview-quality 🚀).
-
----
 
 # 🚀 AWS EKS Setup from Ubuntu EC2 (Step-by-Step)
 
